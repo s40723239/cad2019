@@ -30,6 +30,9 @@
 <v t="leo.20191108122742.1"><vh>投影片2</vh>
 <v t="leo.20191108122742.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20191213144030.1"><vh>投影片3</vh>
+<v t="leo.20191213144030.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -362,6 +365,25 @@ vertical: body pane on the botton</t>
 #### .week6 參數化零組件繪製二輪自走車  網際 V-rep 模型控制
 #### .week7 更改solvespace中about的內容 solvespace繪圖驗證
 #### .week8 啟用cmsimde裡的網誌系統 導入webots
+
+
+</t>
+<t tx="leo.20191213144030.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213144030.2">## WEEKLY PROGRESS
+
+
+#### .week10 組長建立分組網站並且請組員加入分組網站
+##### .nx12下載的方式與利用virtual box開啟方式
+
+#### .week12 組員個別整理電子書內容 
 
 
 </t>
