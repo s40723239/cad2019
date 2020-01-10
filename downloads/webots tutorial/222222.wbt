@@ -1,0 +1,117 @@
+#VRML_SIM R2019b utf8
+WorldInfo {
+  basicTimeStep 16
+}
+Viewpoint {
+  orientation -0.5314123420697425 0.8001279105799557 0.27820181416896866 0.6723404157539935
+  position 1.2345791578547862 0.9294218265179646 2.246361618256357
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+WoodenBox {
+  translation -0.22279399992613752 0.04996076001835642 0.25043800007386247
+  rotation 0.7071067863747403 2.128813818838104e-09 -0.7071067759983546 -1.7042447870934864e-10
+  size 0.1 0.1 0.1
+  mass 0.2
+}
+WoodenBox {
+  translation 0.244634 0.05 0.24904
+  name "wooden box(1)"
+  size 0.1 0.1 0.1
+}
+WoodenBox {
+  translation 0.262221 0.05 -0.218894
+  name "wooden box(2)"
+  size 0.1 0.1 0.1
+}
+E-puck {
+  translation 0.04432029999995908 -3.196219400501167e-05 0.22604400001027364
+  rotation -0.004166049636375 0.9999909917676598 0.0008126585748274303 0.3768760650098425
+  controller "12321233"
+}
+Solid {
+  translation 0 0.2 -0.2
+  children [
+    Shape {
+      appearance PBRAppearance {
+        roughness 1
+        metalness 0
+      }
+      geometry DEF BALL_GEOMETRY Sphere {
+        radius 0.1
+      }
+    }
+  ]
+  boundingObject USE BALL_GEOMETRY
+  physics Physics {
+  }
+}
+Floor {
+  size 1 1
+}
+DEF DEF_wall Solid {
+  translation 0 0.05 0.5
+  children [
+    Shape {
+      appearance PBRAppearance {
+        roughness 1
+        metalness 0
+      }
+      geometry DEF wall Box {
+        size 1 0.1 0.02
+      }
+    }
+  ]
+  name "solid(1)"
+  boundingObject USE wall
+}
+DEF DEF_wall2 Solid {
+  translation 0 0.05 -0.5
+  children [
+    Shape {
+      appearance PBRAppearance {
+        roughness 1
+        metalness 0
+      }
+      geometry DEF wall Box {
+        size 1 0.1 0.02
+      }
+    }
+  ]
+  name "solid(2)"
+  boundingObject USE wall
+}
+DEF DEF_wall3 Solid {
+  translation 0.5 0.05 0
+  children [
+    Shape {
+      appearance PBRAppearance {
+        roughness 1
+        metalness 0
+      }
+      geometry DEF wall Box {
+        size 0.02 0.1 1
+      }
+    }
+  ]
+  name "solid(3)"
+  boundingObject USE wall
+}
+DEF DEF_wall4 Solid {
+  translation -0.5 0.05 0
+  children [
+    Shape {
+      appearance PBRAppearance {
+        roughness 1
+        metalness 0
+      }
+      geometry DEF wall Box {
+        size 0.02 0.1 1
+      }
+    }
+  ]
+  name "solid(4)"
+  boundingObject USE wall
+}
