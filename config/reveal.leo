@@ -33,6 +33,9 @@
 <v t="leo.20191213144030.1"><vh>投影片3</vh>
 <v t="leo.20191213144030.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200110094612.1"><vh>投影片4</vh>
+<v t="leo.20200110094612.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -59,10 +62,14 @@
 ### 40723239 黃學聖
 
 &lt;small&gt;
-Created by [黃學聖](https://s40723239.github.io/cad2019/content/index.html)
+Created by 黃學聖
 &lt;/small&gt;
 
+[網誌](https://s40723239.github.io/cad2019/blog/index.html)
 
+[網站](https://s40723239.github.io/cad2019/content/index.html)
+
+[倉儲](https://github.com/s40723239/cad2019.git)
 
 
 </t>
@@ -344,9 +351,11 @@ vertical: body pane on the botton</t>
 <t tx="leo.20191108121900.2">## WEEKLY PROGRESS
 
 
-#### .week2 建立倉儲  
-#### .week3 solvespace編譯
-#### .week5 solvespace圖面繪製練習
+#### .Week2 建立倉儲  
+
+#### .Week3 solvespace編譯
+
+#### .Week5 solvespace圖面繪製練習
 
 
 </t>
@@ -362,9 +371,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20191108122742.2">## WEEKLY PROGRESS
 
 
-#### .week6 參數化零組件繪製二輪自走車  網際 V-rep 模型控制
-#### .week7 更改solvespace中about的內容 solvespace繪圖驗證
-#### .week8 啟用cmsimde裡的網誌系統 導入webots
+#### .Week6 參數化零組件繪製二輪自走車  網際 V-rep 模型控制
+#### .Week7 更改solvespace中about的內容 solvespace繪圖驗證
+#### .Week8 啟用cmsimde裡的網誌系統 導入webots
 
 
 </t>
@@ -380,10 +389,33 @@ vertical: body pane on the botton</t>
 <t tx="leo.20191213144030.2">## WEEKLY PROGRESS
 
 
-#### .week10 組長建立分組網站並且請組員加入分組網站
-##### .nx12下載的方式與利用virtual box開啟方式
+#### .Week10 組長建立分組網站並請組員加入
+#### .nx12下載的方式與利用virtual box開啟方式
 
-#### .week12 組員個別整理電子書內容 
+#### .Week12 組員個別整理電子書內容 
+
+#### .Week13~14 webots tutorial第一章到第三章練習
+
+
+</t>
+<t tx="leo.20200110094612.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110094612.2">## WEEKLY PROGRESS
+
+
+#### .Week15 進度回報
+
+#### .Week16 繪製越野車並導出stl和wrl檔 
+#### .組員分工翻譯Building a clean model tutorial和Webots User Guide的內容
+
+#### .Week17 vrep導入並模擬
 
 
 </t>
