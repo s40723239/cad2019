@@ -36,6 +36,27 @@
 <v t="leo.20200110094612.1"><vh>投影片4</vh>
 <v t="leo.20200110094612.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200110132036.1"><vh>w7</vh>
+<v t="leo.20200110132036.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110132032.1"><vh>w8</vh>
+<v t="leo.20200110132032.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110132234.1"><vh>w10</vh>
+<v t="leo.20200110132234.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110140017.1"><vh>w14</vh>
+<v t="leo.20200110140017.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110140020.1"><vh>w15</vh>
+<v t="leo.20200110140020.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110140429.1"><vh>w16</vh>
+<v t="leo.20200110140429.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110140521.1"><vh>w17</vh>
+<v t="leo.20200110140521.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -352,10 +373,9 @@ vertical: body pane on the botton</t>
 
 
 #### .Week2 建立倉儲  
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/U8CUILw_H_Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-#### .Week3 solvespace編譯
 
-#### .Week5 solvespace圖面繪製練習
 
 
 </t>
@@ -370,10 +390,11 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20191108122742.2">## WEEKLY PROGRESS
 
+#### .Week3 solvespace編譯
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qaVN7s19UUg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-#### .Week6 參數化零組件繪製二輪自走車  網際 V-rep 模型控制
-#### .Week7 更改solvespace中about的內容 solvespace繪圖驗證
-#### .Week8 啟用cmsimde裡的網誌系統 導入webots
+
+
 
 
 </t>
@@ -388,13 +409,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20191213144030.2">## WEEKLY PROGRESS
 
-
-#### .Week10 組長建立分組網站並請組員加入
-#### .nx12下載的方式與利用virtual box開啟方式
-
-#### .Week12 組員個別整理電子書內容 
-
-#### .Week13~14 webots tutorial第一章到第三章練習
+#### .Week5 solvespace圖面繪製練習
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/hlipc0IuE-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
@@ -409,15 +425,132 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200110094612.2">## WEEKLY PROGRESS
 
+#### .Week6 參數化零組件繪製二輪自走車  網際 V-rep 模型控制
+&lt;iframe width="250" height="150" src="https://www.youtube.com/embed/vvHHd2R90cM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;iframe width="250" height="150" src="https://www.youtube.com/embed/eXCRexQXSlg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="leo.20200110132032.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110132032.2">## WEEKLY PROGRESS
+
+#### .Week8 啟用cmsimde裡的網誌系統 導入webots
+
+&lt;iframe width="300" height="160" src="https://www.youtube.com/embed/7SJMhKjCvbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="300" height="160" src="https://www.youtube.com/embed/PXkapeYze0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200110132036.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110132036.2">## WEEKLY PROGRESS
+
+#### .Week7 更改solvespace中about的內容 solvespace繪圖驗證
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-LvNGgdgEOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200110132234.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110132234.2">## WEEKLY PROGRESS
+
+#### .Week10 組長建立分組網站並請組員加入
+#### .nx12下載的方式與利用virtual box開啟方式
+#### .Week12 組員個別整理電子書內容 
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BCSsnO3t-4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200110140017.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110140017.2">## WEEKLY PROGRESS
+
+#### .Week13~14 webots tutorial第一章到第三章練習
+&lt;iframe width="300" height="160" src="https://www.youtube.com/embed/lZAOZRYMrr4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="300" height="160" src="https://www.youtube.com/embed/0G8syhuB-h0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="300" height="160" src="https://www.youtube.com/embed/QIqU_SZu_vo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200110140020.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110140020.2">## WEEKLY PROGRESS
 
 #### .Week15 進度回報
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Ax4Wkw_jcnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200110140429.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110140429.2">## WEEKLY PROGRESS
 
 #### .Week16 繪製越野車並導出stl和wrl檔 
 #### .組員分工翻譯Building a clean model tutorial和Webots User Guide的內容
 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rwK6VrkKXkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110140521.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110140521.2">## WEEKLY PROGRESS
+
 #### .Week17 vrep導入並模擬
 
-
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/V7ApAskcuag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
